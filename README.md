@@ -1,4 +1,4 @@
-# .NET Core 2.0 - Hello, World  App
+# .NET Core 6.0 - Hello, World  App
 
 Requires Docker (Linux containers)
 
